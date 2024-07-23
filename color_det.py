@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.image as imf
 import matplotlib.pyplot as plt
 
-# this secton helps with understanding the HSV color channel and it also helps picking the right color for the project
+# this secton helps with understanding the HSV color channel and it also helps picking the right color range used for the project
 
 def onChange(x): # the callback function for the trackbar
     pass
